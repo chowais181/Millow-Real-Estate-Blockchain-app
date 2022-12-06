@@ -40,6 +40,6 @@ In a separate terminal execute:
 
 ### Guideline
 1. You have to import 4 different accounts with given nemonics by imorting through private keys, buyer, seller, inspector, lender
-2. First buyer then insepector then lender and finally the seller  will sale.
+2. First buyer Acc#1 then inspector Acc#3  then lender Acc#4 and finally the seller Acc#2  will sale.
 3. If any error then reset your wallet account 
 
